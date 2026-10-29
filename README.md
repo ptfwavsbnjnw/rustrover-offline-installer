@@ -5,10 +5,10 @@
   <img src="https://img.shields.io/badge/Rating-4.9%2F5-F9A825?style=for-the-badge&logo=star" />
   <img src="https://img.shields.io/badge/Version-2026-101010?style=for-the-badge&logo=github" />
   <img src="https://img.shields.io/badge/Platform-Windows%20%7C%20macOS-informational?style=for-the-badge&logo=windows" />
-  <img src="https://img.shields.io/badge/Category-Rust+IDE-E63946?style=for-the-badge&logo=appstore" />
+  <img src="https://img.shields.io/badge/Category-IDE-E63946?style=for-the-badge&logo=appstore" />
 </p>
 
-**💻 RustRover Free Installer** — RustRover is JetBrains' dedicated Rust IDE providing intelligent code completion, refactoring, Cargo integration, debugging, and deep understanding of Rust's ownership and borrowing model. Works without internet access, no account required. Full offline installation.
+**💻 RustRover Free Installer** — RustRover is JetBrains' dedicated Rust IDE providing intelligent code completion, cargo integration, a powerful debugger, and deep Rust language analysis. Works without internet access, no account required. Full offline installation.
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=windows" />
@@ -30,16 +30,16 @@
 
 ## 📖 About RustRover
 
-RustRover is JetBrains' dedicated Rust IDE providing intelligent code completion, refactoring, Cargo integration, debugging, and deep understanding of Rust's ownership and borrowing model. For Rust developers who want IDE-level assistance navigating Rust's complex type system and borrow checker, RustRover offers analysis capabilities beyond what editor plugins provide.
+RustRover is JetBrains' dedicated Rust IDE providing intelligent code completion, cargo integration, a powerful debugger, and deep Rust language analysis. It delivers comprehensive Rust support in a purpose-built development environment.
 
 ---
 
 ## ❌ Problem: RustRover is hard to access
 
-- **Commercial License** — Requires paid JetBrains subscription
-- **New Product** — Younger product with ongoing feature development
-- **VS Code Alternative** — rust-analyzer plugin in VS Code is free and competitive
-- **Resource Demands** — Higher memory usage than lightweight alternatives
+- **Paid Subscription** — Free during preview; paid subscription once generally available
+- **Competition** — VS Code with rust-analyzer provides excellent Rust support free
+- **Resource Intensive** — Heavier than lightweight Rust editors
+- **Young Product** — RustRover released recently; fewer features than mature JetBrains IDEs
 
 ---
 
@@ -121,7 +121,7 @@ RustRover is JetBrains' dedicated Rust IDE providing intelligent code completion
 
 ---
 
-**RustRover Free Installer** — RustRover is JetBrains' dedicated Rust IDE providing intelligent code completion, refactoring, Cargo integration, debugging, and deep understanding of Rust's ownership and borrowing model. Install without internet connection today!
+**RustRover Free Installer** — RustRover is JetBrains' dedicated Rust IDE providing intelligent code completion, cargo integration, a powerful debugger, and deep Rust language analysis. Install without internet connection today!
 
 <div align="center">
 
